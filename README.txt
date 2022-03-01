@@ -5,6 +5,5 @@ A documentation of my exploration and build of an electric bike for the 2022 i2 
 
 Credits:
 
-	Battery Frame: 18650 Battery Frame bylewtwois licensed under the Creative Commons
-			   Public Domain Dedication license.
-				(https://www.thingiverse.com/lewtwo)(https://www.thingiverse.com/thing:2821270/files)
+	Battery Frame: 18650 Battery Frame bylewtwois licensed under the Creative Commons Public Domain Dedication license.
+		(https://www.thingiverse.com/lewtwo) (https://www.thingiverse.com/thing:2821270/files)
