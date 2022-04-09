@@ -1,4 +1,4 @@
-i2-Bike-Build by BrandonLHolland
+Project Ohm by BrandonLHolland
 brandonholland.me | c0rrupt#5013
 
 A documentation of my exploration and build of an electric bike for the 2022 i2 showcase.
